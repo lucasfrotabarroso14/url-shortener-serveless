@@ -1,0 +1,8 @@
+### Encurtar uma URL
+POST https://7bhvlbq9tl.execute-api.us-east-1.amazonaws.com/default/ShortenFunction-01
+Content-Type: application/json
+
+{
+  "url": "https://www.youtube.com/"
+}
+
